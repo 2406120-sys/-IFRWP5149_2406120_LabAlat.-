@@ -10,7 +10,7 @@
         <mxCell id="5Du4Kj1ElJPJKoVEnkei-17" parent="5Du4Kj1ElJPJKoVEnkei-16" style="ellipse;" value=" Lihat jadwal&#xa; kuliah" vertex="1">
           <mxGeometry height="60" width="100" x="56" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="5Du4Kj1ElJPJKoVEnkei-18" parent="5Du4Kj1ElJPJKoVEnkei-16" style="ellipse;" value="kelola data &#xa;peralatan" vertex="1">
+        <mxCell id="5Du4Kj1ElJPJKoVEnkei-18" parent="5Du4Kj1ElJPJKoVEnkei-16" style="ellipse;" value="Kelola jadwal &#xa;kuliah" vertex="1">
           <mxGeometry height="60" width="100" x="236" y="240" as="geometry" />
         </mxCell>
         <mxCell id="5Du4Kj1ElJPJKoVEnkei-19" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Mahasiswa" vertex="1">
