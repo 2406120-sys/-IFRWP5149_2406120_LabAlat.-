@@ -1,0 +1,34 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="UKrJ_-V-GjoWQo1z3E7W">
+    <mxGraphModel dx="993" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5Du4Kj1ElJPJKoVEnkei-16" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=226;height=70;" value="SISTEM INFORMASI AKADEMIK" vertex="1">
+          <mxGeometry height="620" width="400" x="264" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5Du4Kj1ElJPJKoVEnkei-17" parent="5Du4Kj1ElJPJKoVEnkei-16" style="ellipse;" value=" Lihat jadwal&#xa; kuliah" vertex="1">
+          <mxGeometry height="60" width="100" x="56" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="5Du4Kj1ElJPJKoVEnkei-18" parent="5Du4Kj1ElJPJKoVEnkei-16" style="ellipse;" value="kelola data &#xa;peralatan" vertex="1">
+          <mxGeometry height="60" width="100" x="236" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="5Du4Kj1ElJPJKoVEnkei-19" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Mahasiswa" vertex="1">
+          <mxGeometry height="60" width="30" x="200" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="5Du4Kj1ElJPJKoVEnkei-20" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Admin&lt;div&gt;&amp;nbsp;akademik&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="720" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="5Du4Kj1ElJPJKoVEnkei-21" edge="1" parent="1" source="5Du4Kj1ElJPJKoVEnkei-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.03;entryY=0.35;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="5Du4Kj1ElJPJKoVEnkei-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Du4Kj1ElJPJKoVEnkei-22" edge="1" parent="1" source="5Du4Kj1ElJPJKoVEnkei-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;entryX=0.952;entryY=0.317;entryDx=0;entryDy=0;entryPerimeter=0;" target="5Du4Kj1ElJPJKoVEnkei-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="600" y="419.26" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
