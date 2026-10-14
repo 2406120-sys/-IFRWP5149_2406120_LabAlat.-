@@ -3,4 +3,4 @@ Nama    : Najwa Sofwatul Ilmi
 Kelas   : Informatika_C
 
 
-Pertemuan 2 Unified Modelling Language (UML)
+Pertemuan 3 Unified Modelling Language (UML)
