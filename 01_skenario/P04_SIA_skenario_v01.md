@@ -47,5 +47,3 @@ collaboration yang bersesuaian.
 | SIA-UC11 | Tambah Data Mahasiswa | Baru pada Pertemuan 4; use case KHUSUS dari SIA-UC10 | SIA-R11 |
 | SIA-UC12 | Ubah Data Mahasiswa | Baru pada Pertemuan 4; use case KHUSUS dari SIA-UC10 | SIA-R11 |
 | SIA-UC13 | Hapus Data Mahasiswa | Baru pada Pertemuan 4; use case KHUSUS dari SIA-UC10 | SIA-R11 |
-
-S
