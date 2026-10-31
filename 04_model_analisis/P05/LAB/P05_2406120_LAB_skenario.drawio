@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="jFW9MhLRibfR_o_XHkQx" name="Page-1">
-        <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1676" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -350,6 +350,9 @@
                     <mxGeometry height="80" width="270" x="270" as="geometry">
                         <mxRectangle height="80" width="270" as="alternateBounds"/>
                     </mxGeometry>
+                </mxCell>
+                <mxCell id="ybKajB4wFW0wIFeaBJuN-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;span style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgba(168, 169, 170, 0.52) rgb(18, 19, 20);&quot;&gt;Tabel 5.3 Skenario Use Case&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); text-align: left;&quot;&gt;LAB-UC04 Periksa Ketersediaan&amp;nbsp;&lt;/span&gt;&lt;/b&gt;" vertex="1">
+                    <mxGeometry height="30" width="500" x="174" y="1250" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
