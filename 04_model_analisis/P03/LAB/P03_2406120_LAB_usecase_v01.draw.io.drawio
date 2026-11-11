@@ -1,0 +1,93 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="UKrJ_-V-GjoWQo1z3E7W">
+    <mxGraphModel dx="888" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5Du4Kj1ElJPJKoVEnkei-16" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=226;height=70;" value="SISTEM INFORMASI AKADEMIK" vertex="1">
+          <mxGeometry height="610" width="474" x="190" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5Du4Kj1ElJPJKoVEnkei-17" parent="5Du4Kj1ElJPJKoVEnkei-16" style="ellipse;" value=" Lihat jadwal&#xa; kuliah" vertex="1">
+          <mxGeometry height="60" width="124" x="56" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="5Du4Kj1ElJPJKoVEnkei-18" parent="5Du4Kj1ElJPJKoVEnkei-16" style="ellipse;" value="Kelola data &#xa;peralatan" vertex="1">
+          <mxGeometry height="60" width="140" x="260" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="pSifossMk17flNPaLbIY-2" parent="5Du4Kj1ElJPJKoVEnkei-16" style="ellipse;" value="Ajukan &#xa;Peminjaman" vertex="1">
+          <mxGeometry height="60" width="130" x="56" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="pSifossMk17flNPaLbIY-14" edge="1" parent="5Du4Kj1ElJPJKoVEnkei-16" source="pSifossMk17flNPaLbIY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" target="pSifossMk17flNPaLbIY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pSifossMk17flNPaLbIY-15" connectable="0" parent="pSifossMk17flNPaLbIY-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0722" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pSifossMk17flNPaLbIY-3" parent="5Du4Kj1ElJPJKoVEnkei-16" style="ellipse;" value=" Cetak bukti &#xa;pengajuan" vertex="1">
+          <mxGeometry height="60" width="130" x="56" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="pSifossMk17flNPaLbIY-4" parent="5Du4Kj1ElJPJKoVEnkei-16" style="ellipse;" value="Pemeriksa &#xa;ketersediaan" vertex="1">
+          <mxGeometry height="60" width="130" x="275" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="pSifossMk17flNPaLbIY-5" parent="5Du4Kj1ElJPJKoVEnkei-16" style="ellipse;" value="Memproses &#xa;keputusan peminjaman" vertex="1">
+          <mxGeometry height="60" width="140" x="265" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="pSifossMk17flNPaLbIY-6" parent="5Du4Kj1ElJPJKoVEnkei-16" style="ellipse;" value="Melihat laporan &#xa;peminjaman" vertex="1">
+          <mxGeometry height="60" width="140" x="265" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="pSifossMk17flNPaLbIY-16" edge="1" parent="5Du4Kj1ElJPJKoVEnkei-16" source="pSifossMk17flNPaLbIY-2" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pSifossMk17flNPaLbIY-4" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="144" y="259.44" as="sourcePoint" />
+            <mxPoint x="304" y="259.44" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Du4Kj1ElJPJKoVEnkei-19" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Mahasiswa" vertex="1">
+          <mxGeometry height="60" width="30" x="130" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="5Du4Kj1ElJPJKoVEnkei-20" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Petugas&lt;div&gt;Laboratorium&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="720" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="5Du4Kj1ElJPJKoVEnkei-21" edge="1" parent="1" source="5Du4Kj1ElJPJKoVEnkei-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.03;entryY=0.35;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="5Du4Kj1ElJPJKoVEnkei-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Du4Kj1ElJPJKoVEnkei-22" edge="1" parent="1" source="5Du4Kj1ElJPJKoVEnkei-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;entryX=0.952;entryY=0.317;entryDx=0;entryDy=0;entryPerimeter=0;" target="5Du4Kj1ElJPJKoVEnkei-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="600" y="419.26" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pSifossMk17flNPaLbIY-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="kepala&lt;br&gt;&lt;div&gt;&amp;nbsp;Laboratorium&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="720" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="pSifossMk17flNPaLbIY-9" edge="1" parent="1" source="5Du4Kj1ElJPJKoVEnkei-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.077;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="pSifossMk17flNPaLbIY-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="225" y="430" as="sourcePoint" />
+            <mxPoint x="334" y="321" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pSifossMk17flNPaLbIY-10" edge="1" parent="1" source="5Du4Kj1ElJPJKoVEnkei-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="pSifossMk17flNPaLbIY-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="430" as="sourcePoint" />
+            <mxPoint x="340" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pSifossMk17flNPaLbIY-11" edge="1" parent="1" source="5Du4Kj1ElJPJKoVEnkei-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="pSifossMk17flNPaLbIY-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="745" y="430" as="sourcePoint" />
+            <mxPoint x="619" y="319" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pSifossMk17flNPaLbIY-13" edge="1" parent="1" source="pSifossMk17flNPaLbIY-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" target="pSifossMk17flNPaLbIY-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="721" y="607.5" as="sourcePoint" />
+            <mxPoint x="600" y="602.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -3,4 +3,4 @@ Nama    : Najwa Sofwatul Ilmi
 Kelas   : Informatika_C
 
 
-Pertemuan 6  SKENARIO KE ALUR AKTIVITAS
+Pertemuan 7
